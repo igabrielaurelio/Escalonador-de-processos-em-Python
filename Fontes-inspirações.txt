@@ -1,3 +1,0 @@
-https://github.com/pedro-pauletti/Simulador-Escalonamento-de-Processos/blob/main/main.py
-https://www.linkedin.com/pulse/implementa%C3%A7%C3%A3o-de-ambiente-web-para-simula%C3%A7%C3%A3o-processos-caio-sousa/
-https://dev.to/iamthiago/sistemas-operacionais-fifo-4ebo
