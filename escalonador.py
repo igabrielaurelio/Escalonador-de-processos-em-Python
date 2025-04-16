@@ -236,7 +236,7 @@ def round_robin(processos_orig, quantum):
 
         # Adiciona processos recém-chegados
         for proc in processos:
-            if proc.tempo_chegada == tempo_global and proc not in esperando and proc not in fila:
+            if proc.tempo_chegada <= tempo_global and proc not in esperando and proc not in fila:
                 fila.append(proc)
                 esperando.add(proc)
 
