@@ -1,0 +1,11 @@
+Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). Operating System Concepts (10ª ed.). Wiley.
+→ Esse livro é um dos principais textos sobre Sistemas Operacionais e cobre tópicos essenciais, incluindo escalonamento de processos.
+
+Tanenbaum, A. S., & Bos, H. (2015). Modern Operating Systems (4ª ed.). Pearson.
+→ Uma referência clássica que aborda conceitos de escalonamento, gerenciamento de processos e técnicas de E/S.
+
+Stallings, W. (2018). Operating Systems: Internals and Design Principles (9ª ed.). Pearson.
+→ Outro livro que explica em detalhes os mecanismos internos dos sistemas operacionais, útil para fundamentar as escolhas sobre estruturas de dados e algoritmos.
+
+Wikipedia contributors. (2023). CPU scheduling. In Wikipedia, The Free Encyclopedia. Recuperado de https://en.wikipedia.org/wiki/CPU_scheduling
+→ Um bom ponto de partida para entender as variações e os desafios do escalonamento de processos.
